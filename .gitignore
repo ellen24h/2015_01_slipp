@@ -54,6 +54,6 @@ local.properties
 # TeXlipse plugin
 .texlipse
 
-tomcat.8080
+tomcat.8080/
 
 
